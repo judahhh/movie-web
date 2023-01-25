@@ -3,3 +3,7 @@
   text-decoration: none;
   margin: 20px;
 }
+* {
+  background-color: black;
+  color: white;
+}
